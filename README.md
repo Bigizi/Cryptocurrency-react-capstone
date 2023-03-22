@@ -54,7 +54,8 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>(https://cryptocurrency-coin.onrender.com/)
+## 🚀 Live Demo <a name="live-demo"></a>
+- [Get live here](https://cryptocurrency-coin.onrender.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -62,7 +63,7 @@
 <!-- Loom Walkthrough -->
 ## LOOM PROJECT PRESENTATION <a name="loom-demo"></a>
 
-- [Loom Walkthrough Link](https://www.loom.com/share/55e4214003fe47449424e4eb5f6b408b)
+- [Loom video](https://www.loom.com/share/55e4214003fe47449424e4eb5f6b408b)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
