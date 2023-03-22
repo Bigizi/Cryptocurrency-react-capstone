@@ -1,4 +1,4 @@
-## Space-Travel-Hub-React-Redux-project
+## Metrics-React-project
 
 <a name="readme-top"></a>
 
@@ -31,7 +31,7 @@
 
 # 📖 Book-Store-React Project <a name="about-project"></a>
 
-**React/Redux Group Project** is a single webpage  Application that displays the rockets, dragons, missions and profile.
+**Metrics React Capstone** is a single webpage  Application that displays the crypto currency coin and the details of each crypto once is clicked, the data of crypto coins are fetched from the API.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -40,20 +40,22 @@
 - JSX
 - CSS
 - React JS
+- Redux
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
--[x] **Rockets**
--[x] **Dragons**
--[x] **Missions**
--[x] **Profile**
+-[x] **Serach coin**
+-[x] **Crypto coins list**
+-[x] **Crypto coins details**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>(https://spacex-3bz6.onrender.com/)
+## 🚀 Live Demo <a name="live-demo"></a>
+- [Get live here](https://cryptocurrency-coin.onrender.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -61,7 +63,7 @@
 <!-- Loom Walkthrough -->
 ## LOOM PROJECT PRESENTATION <a name="loom-demo"></a>
 
-- [Loom Walkthrough Link](coming soon)
+- [Loom video](https://www.loom.com/share/55e4214003fe47449424e4eb5f6b408b)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,8 +87,8 @@ Clone this repository to your desired folder using the command below:
 ### Clone this repository
 
 ```bash
-$ git clone https://github.com/Bigizi/Space-Travel-Hub
-$ cd Space-Travel-Hub
+$ git clone https://github.com/Bigizi/Cryptocurrency-react-capstone
+$ cd Cryptocurrency-react-capstone
 ```
 
 ### Install
@@ -122,18 +124,7 @@ $ npm start
 👤 **Bigizi Nduwayo Crispin**
 
 - GitHub: [@Crispin](https://github.com/Bigizi)
-- LinkedIn: [@Crispin](https://linkedin.com/)
-
-👤 **Mladan Ilic**
-
-- GitHub: [@Ilic](https://github.com/djo1975)
-- Twitter: [@Ilic](https://twitter.com/MladanIlic)
-- LinkedIn: [@Ilic] (https://www.linkedin.com/in/mladan-ilic-0528a2256/)
-
-👤 **Andrea Rivas**
-
-- GitHub: [@Ilic](https://github.com/rivasbolinga)
-- LinkedIn: [@Ilic] (https://www.linkedin.com/in/andrearivaspalacios/)
+- LinkedIn: [@Crispin](https://www.linkedin.com/in/bigizi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,7 +141,6 @@ $ npm start
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Issues](https://github.com/Bigizi/Space-Travel-Hub/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,6 +157,7 @@ If you like this project, please don't forget to follow us and give it a star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank [Microverse](https://www.microverse.org/)
+Credit to Nelson Sakwa for providing the[Design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
 I would like to thank our parents and supporters for their support
 I would like to thank All my coding partners
 
