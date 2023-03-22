@@ -32,7 +32,7 @@ const cryptoSlice = createSlice({
   initialState: {
     isLoding: false,
     crypto: [],
-    isEror: false,
+    isError: false,
   },
   reducers: {
     getdetails: (state, action) => {
@@ -62,7 +62,7 @@ const cryptoSlice = createSlice({
     builder.addCase(fetchCrypto.rejected, (state) => {
       const reject = state;
       reject.isLoding = false;
-      reject.isEror = true;
+      reject.isError = true;
     });
   },
 });

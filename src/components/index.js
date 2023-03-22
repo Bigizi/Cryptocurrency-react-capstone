@@ -25,7 +25,7 @@ const Home = () => {
         <input
           type="text"
           value={search}
-          placeholder="Search Currency Coin.."
+          placeholder="Search Currency Coin"
           onChange={handleSearch}
         />
       </div>

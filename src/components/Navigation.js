@@ -10,11 +10,10 @@ const Nav = () => (
       <NavLink to="/">
         <FaArrowAltCircleLeft className="icons" />
       </NavLink>
-      {/* <p> 2023</p> */}
     </div>
     <div className="nav-center">
       <img src={logo} alt="Crypto logo" width="50px" />
-      <p> Crypto Currency Tracker</p>
+      <p> Crypto Currency App</p>
     </div>
     <div className="nav-right">
       <NavLink to="/"><FaMicrophone className="icons" /></NavLink>
