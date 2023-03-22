@@ -86,8 +86,8 @@ Clone this repository to your desired folder using the command below:
 ### Clone this repository
 
 ```bash
-$ git clone https://github.com/Bigizi/Metrics-react-app
-$ cd Metrics-react-app
+$ git clone https://github.com/Bigizi/Cryptocurrency-react-capstone
+$ cd Cryptocurrency-react-capstone
 ```
 
 ### Install
@@ -156,6 +156,7 @@ If you like this project, please don't forget to follow us and give it a star.
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 I would like to thank [Microverse](https://www.microverse.org/)
+Credit to Nelson Sakwa for providing the[Design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs))
 I would like to thank our parents and supporters for their support
 I would like to thank All my coding partners
 
